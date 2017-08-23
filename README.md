@@ -5,4 +5,4 @@ L'applicazione sviluppata in python gestisce un semplice client FTP.
 
 ### Autore ###
 
-* Elia Mercatanti
+Elia Mercatanti
